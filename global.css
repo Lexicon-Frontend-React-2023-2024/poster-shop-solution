@@ -4,7 +4,7 @@
   margin: 0;
 }
 
- html {
+html {
   --black: #202123;
   --dark_gray: #333333;
   --red: #e83f57;
@@ -12,7 +12,7 @@
 }
 
 body {
-  background-color: var(--black);
+  background-color: black;
 }
 
 h2 {
